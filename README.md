@@ -23,8 +23,8 @@ This script demonstrates a basic form of polymorphic ransomware using the `crypt
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/eagle-plusplus/simple-polymorphic-ransomware.git
+   cd simple-polymorphic-ransomware
     ```
 2. **Ensure you have Python 3 installed, then install required packages**:
     ```bash
